@@ -1,0 +1,7 @@
+   START
+    input n
+     n%21==0
+      print("n  ədıdi 3 ve ya7 ye bolunur")
+       else
+        print("n ədədi 3 ve ya 7 ye bolunmur")
+    END

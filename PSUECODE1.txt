@@ -1,0 +1,7 @@
+      START
+        input 15
+          if 15<0:
+            print("hava isdidi")
+             t%15>0
+              print("hava soyuqdu")
+       END
